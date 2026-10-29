@@ -17,6 +17,8 @@ ______________________________________________
 📚 Sobre os Repositórios que criei
 
 Confira nos meus Repositórios, alguns dos meus projetos que tenho desenvolvido durante esse tempo.
+
+[![Skills](https://skillicons.dev/icons?i=html,css,js,py,vscode,php)](https://skillicons.dev)
 ______________________________________________
 
 💡 Curiosidade
