@@ -32,3 +32,4 @@ ______________________________________________
 
 📧 E-mail: victorrodriguesdesouza1502@gmail.com
 INSTAGRAM: @vittorszza_
+WORKANA: https://www.workana.com/freelancer/5e256d06c4cd2db9f0e93877656d6b2a
